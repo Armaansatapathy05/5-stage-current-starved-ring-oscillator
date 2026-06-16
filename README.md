@@ -16,7 +16,6 @@ This project implements a 5-stage Current-Starved Ring Oscillator using PMOS/NMO
 
 ## Tools Used
 - Tanner EDA
-- T-Spice
 
 ## Author
 Armaan Satapathy
